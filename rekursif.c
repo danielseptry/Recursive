@@ -6,3 +6,5 @@ int faktorial (int a);
 main()
 {
 	int n;
+
+	printf ("masukkan bilangan; ");

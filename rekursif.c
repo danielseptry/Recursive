@@ -2,3 +2,5 @@
 #include <conio.h>
 
 int faktorial (int a);
+
+main()

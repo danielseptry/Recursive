@@ -4,3 +4,4 @@
 int faktorial (int a);
 
 main()
+{

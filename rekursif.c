@@ -21,3 +21,5 @@ int faktorial (int a)
 		return a * faktorial (a - 1);
 	}
 }
+
+

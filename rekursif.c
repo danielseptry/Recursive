@@ -15,3 +15,4 @@ main()
 
 int faktorial (int a)
 {
+	if(a==0) {

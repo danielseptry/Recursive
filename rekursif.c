@@ -13,12 +13,12 @@ main()
 	getch();
 }
 
-int faktorial (int a)
+int faktorial (int b)
 {
 	if(a==0) {
 		return 1;
 	}else {
-	return b * faktorial (a - 1);
-		return a * faktorial (a - 1);
+	return b * faktorial (b - 1);
+		return a * faktorial (b - 1);
 	}
 }

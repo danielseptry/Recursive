@@ -18,7 +18,7 @@ int faktorial (int a)
 	if(a==0) {
 		return 1;
 	}else {
-	return a * faktorial (a - 1);
+	return b * faktorial (a - 1);
 		return a * faktorial (a - 1);
 	}
 }

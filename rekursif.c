@@ -8,3 +8,4 @@ main()
 	int n;
 
 	printf ("masukkan bilangan; ");
+	scanf("%d", &n);

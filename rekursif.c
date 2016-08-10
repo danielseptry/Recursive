@@ -12,3 +12,5 @@ main()
 	printf("faktorial %d = %d", n, faktorial(n));
 	getch();
 }
+
+int faktorial (int a)

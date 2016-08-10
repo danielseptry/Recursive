@@ -10,3 +10,4 @@ main()
 	printf ("masukkan bilangan; ");
 	scanf("%d", &n);
 	printf("faktorial %d = %d", n, faktorial(n));
+	getch();

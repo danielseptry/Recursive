@@ -19,3 +19,6 @@ int faktorial (int a)
 		return 1;
 	}else {
 	return a * faktorial (a - 1);
+		return a * faktorial (a - 1);
+	}
+}
